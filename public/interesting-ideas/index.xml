@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timeless Wisdom on Engineering journey</title>
+    <link>https://example.org/interesting-ideas/</link>
+    <description>Recent content in Timeless Wisdom on Engineering journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 15:25:09 +0700</lastBuildDate>
+    
+	<atom:link href="https://example.org/interesting-ideas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lessons from the The Art of War</title>
+      <link>https://example.org/interesting-ideas/the-art-of-war/</link>
+      <pubDate>Tue, 01 Sep 2020 15:26:41 +0700</pubDate>
+      
+      <guid>https://example.org/interesting-ideas/the-art-of-war/</guid>
+      <description>Straightforward and Elegant ideas to conduct war The art of war is a military treatise written by almost a mythical figure from ancient China in the Spring and Autumn period (around 700-450 BCE) of ancient China. In it, Sun tzu breaks down the politics of war and its importance to thenation state. It is a short and easy read that I highly recommend to everyone. It took me 30 minutes to finish reading everything.</description>
+    </item>
+    
+  </channel>
+</rss>

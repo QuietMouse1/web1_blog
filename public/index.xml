@@ -6,9 +6,29 @@
     <description>Recent content in J_Halim on Engineering journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 15:26:41 +0700</lastBuildDate>
     
 	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lessons from the The Art of War</title>
+      <link>https://example.org/interesting-ideas/the-art-of-war/</link>
+      <pubDate>Tue, 01 Sep 2020 15:26:41 +0700</pubDate>
+      
+      <guid>https://example.org/interesting-ideas/the-art-of-war/</guid>
+      <description>Straightforward and Elegant ideas to conduct war The art of war is a military treatise written by almost a mythical figure from ancient China in the Spring and Autumn period (around 700-450 BCE) of ancient China. In it, Sun tzu breaks down the politics of war and its importance to thenation state. It is a short and easy read that I highly recommend to everyone. It took me 30 minutes to finish reading everything.</description>
+    </item>
+    
+    <item>
+      <title>Do You Hear Me Now?</title>
+      <link>https://example.org/general/do-you-hear-me-now/</link>
+      <pubDate>Tue, 01 Sep 2020 14:57:34 +0700</pubDate>
+      
+      <guid>https://example.org/general/do-you-hear-me-now/</guid>
+      <description>This is officially my &amp;ldquo;Can you hear me now ?&amp;quot; moment. Took me quite a while to figure out the nooks and cranny of setting up a web page to record down my engineering journey page using Hugo.
+I am almost done with my University / College education. I am just waiting for graduation ceremony now having completed all my courses and tests. In the mean time, I am embarking on a journey of life long self-learning.</description>
+    </item>
     
   </channel>
 </rss>
