@@ -3,7 +3,7 @@ title: "J_Halim"
 featured_image: '/images/main.jpg'
 description: "As simple as possible. As accurate as necesary."
 type: shortcodes 
-
+draft: false
 ---
 
 
