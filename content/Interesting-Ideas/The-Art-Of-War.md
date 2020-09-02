@@ -1,5 +1,6 @@
 ---
 title: "Lessons from the The Art of War"
+layout: page
 date: 2020-09-01T15:26:41+07:00
 draft: false
 featured_image: "/images/art-of-war.jpg"
