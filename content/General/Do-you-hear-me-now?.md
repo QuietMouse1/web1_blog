@@ -1,7 +1,7 @@
 ---
 title: "Do You Hear Me Now?"
 date: 2020-09-01T14:57:34+07:00
-draft: true
+draft: false
 ---
 
 This is officially my ["Can you hear me now ?"][snowden_twitter] moment. Took me quite a while to figure out the nooks and cranny of setting up a web page to record down my engineering journey page using Hugo.

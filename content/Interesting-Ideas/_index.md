@@ -1,7 +1,7 @@
 ---
 title: "Timeless Wisdom"
 date: 2020-09-01T15:25:09+07:00
-draft: true
+draft: false 
 description: Timeless wisdom and ideas.
 ---
 

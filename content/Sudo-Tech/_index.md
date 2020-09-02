@@ -1,7 +1,7 @@
 ---
 title: "Sudo Tech"
 date: 2020-09-01T15:24:59+07:00
-draft: true
+draft: false
 featured_image: '/images/sudo-tech.jpg'
 description: Super user do technology.
 ---
