@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://jhalimstuff.netlify.app/"
 languageCode = "en-us"
 title = "Engineering journey"
 theme = "ananke"
