@@ -22,6 +22,5 @@ Deception is another theme that is prevalent in the book where deceiving your en
 
 This self-explanatory and shares similar sentiments to "work smarter, not harder". Excellence and mastery according to Sun Tzu are through the display of optimal and yet minimal to achieve a set of outcomes. Of course, this does mean that being hardworking is a negative trait, rather we should be more wary and intelligent when setting out to achieve our desired goals and outcomes. 
 
-![!hello](/images/general.png)
 
 
